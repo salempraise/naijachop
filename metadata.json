@@ -1,0 +1,6 @@
+{
+  "name": "NaijaChop - Nigerian Food Delivery",
+  "description": "Order authentic Nigerian meals: Party Jollof, Egusi Soup, Beef Suya, Small Chops, and Zobo with fast delivery, online payments, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
